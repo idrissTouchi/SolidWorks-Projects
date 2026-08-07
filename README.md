@@ -49,6 +49,6 @@ Mechanical Manufacturing Engineer specialized in mechanical design,
 manufacturing processes, CNC machining, welding engineering,
 and SOLIDWORKS.
 
-📄 [View My Resume](https://github.com/idrissTouchi/Mechanical-Portfolio/Resume/TOUCHI-Idriss-English-CV)
+📄 [View My Resume](https://github.com/idrissTouchi/Mechanical-Portfolio/Resume/Idriss_Touchi_CV_English.pdf)
 
 🔬 [View My Research](https://github.com/idrissTouchi/Research-Papers)
