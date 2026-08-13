@@ -1,1 +1,3 @@
+This project is just an exersise to improve my experience in solidworks and i still have more...
 
+you can watch it in my youtube channele--->[Click here](https://youtu.be/e0b6atFDJ0Q?si=h-v-q9pVimvc9u2_)
